@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Greeting {
     //public static void String personName(String name) {
     public static void main (String[]args){
+        //https://www.youtube.com/watch?v=bI7kQq9cjmQ
         Scanner scan = new Scanner(System.in);
         System.out.println("whats your name");
         String name = scan.nextLine();
